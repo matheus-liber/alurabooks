@@ -8,7 +8,7 @@
 
 Projeto construído no curso HTML e CSS: responsividade com mobile-first.
 
-🔗[Clique aqui para acessar](https://matheus-liber.github.io/aluramidi/)
+🔗[Clique aqui para acessar](https://matheus-liber.github.io/alurabooks/)
 
 ## 🛠 Tecnologias
 
